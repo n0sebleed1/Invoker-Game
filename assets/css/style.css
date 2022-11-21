@@ -1,0 +1,147 @@
+* {
+	margin: 0;
+	color: white;
+}
+
+body {
+	background-color: black;
+}
+
+.container {
+	width: 900px;
+	margin: 0 350px 0 auto;
+}
+
+.center {
+	width: 560px;
+	margin: 0 auto;
+}
+
+.flex {
+	display: flex;
+}
+
+.right {
+	float: right;
+}
+
+.orange {
+	color: orange;
+}
+
+.blue {
+	color: blue;
+}
+
+.purple {
+	color: purple;
+}
+
+.spell {
+	border: 2px solid white;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin: 250px auto 0 auto;
+}
+
+.orb {
+	border: 2px solid white;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin: 50px 10px 0 10px;
+}
+
+.invoke {
+	border: 2px solid black;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin: 50px 10px 0 10px;
+	background-image: url('../img/invoke.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.quas {
+	background-image: url('../img/quas.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.wex {
+	background-image: url('../img/wex.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.exort {
+	background-image: url('../img/exort.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.cold-snap {
+	background-image: url('../img/coldsnap.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.ghost-walk {
+	background-image: url('../img/ghostwalk.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.ice-wall {
+	background-image: url('../img/icewall.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.emp {
+	background-image: url('../img/emp.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.tornado {
+	background-image: url('../img/tornado.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.alacrity {
+	background-image: url('../img/alacrity.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.sun-strike {
+	background-image: url('../img/sunstrike.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.forge-spirit {
+	background-image: url('../img/forge.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.meteor {
+	background-image: url('../img/meteor.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.blast {
+	background-image: url('../img/blast.webp');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.procast {
+	margin: 300px 10px 0 0;
+}
