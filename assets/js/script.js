@@ -46,6 +46,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('cold-snap')
 			}
 
@@ -59,6 +60,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('ghost-walk')
 			}
 
@@ -72,6 +74,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('ice-wall')
 			}
 
@@ -85,6 +88,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('emp')
 			}
 
@@ -98,6 +102,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('tornado')
 			}
 
@@ -111,6 +116,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('alacrity')
 			}
 
@@ -124,6 +130,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('sun-strike')
 			}
 
@@ -137,6 +144,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('forge-spirit')
 			}
 
@@ -150,6 +158,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('meteor')
 			}
 
@@ -163,6 +172,7 @@ document.addEventListener('keydown', function(evt){
 				spell.classList.remove('sun-strike')
 				spell.classList.remove('forge-spirit')
 				spell.classList.remove('meteor')
+				spell.classList.remove('blast')
 				spell.classList.add('blast')
 			}
 		}
